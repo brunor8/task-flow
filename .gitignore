@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+*.user
+
+# Build
+obj/
+bin/
+*.cache
+
+# Logs
+*.log
+
+# Docker volumes
+postgres_data/
+
+# Secrets
+appsettings.Development.json
