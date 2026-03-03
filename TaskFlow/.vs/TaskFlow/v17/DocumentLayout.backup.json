@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Meu Computador\\CodeSpace\\.NET\\Projetos\\task-flow\\TaskFlow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2CA78F-0479-4B4C-BD8B-0A65EF04DF43}|src\\TaskFlow.API\\TaskFlow.API.csproj|c:\\users\\meu computador\\codespace\\.net\\projetos\\task-flow\\taskflow\\src\\taskflow.api\\domain\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2CA78F-0479-4B4C-BD8B-0A65EF04DF43}|src\\TaskFlow.API\\TaskFlow.API.csproj|solutionrelative:src\\taskflow.api\\domain\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2CA78F-0479-4B4C-BD8B-0A65EF04DF43}|src\\TaskFlow.API\\TaskFlow.API.csproj|c:\\users\\meu computador\\codespace\\.net\\projetos\\task-flow\\taskflow\\src\\taskflow.api\\domain\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2CA78F-0479-4B4C-BD8B-0A65EF04DF43}|src\\TaskFlow.API\\TaskFlow.API.csproj|solutionrelative:src\\taskflow.api\\domain\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2CA78F-0479-4B4C-BD8B-0A65EF04DF43}|src\\TaskFlow.API\\TaskFlow.API.csproj|c:\\users\\meu computador\\codespace\\.net\\projetos\\task-flow\\taskflow\\src\\taskflow.api\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2CA78F-0479-4B4C-BD8B-0A65EF04DF43}|src\\TaskFlow.API\\TaskFlow.API.csproj|solutionrelative:src\\taskflow.api\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2CA78F-0479-4B4C-BD8B-0A65EF04DF43}|src\\TaskFlow.API\\TaskFlow.API.csproj|c:\\users\\meu computador\\codespace\\.net\\projetos\\task-flow\\taskflow\\src\\taskflow.api\\domain\\entities\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2CA78F-0479-4B4C-BD8B-0A65EF04DF43}|src\\TaskFlow.API\\TaskFlow.API.csproj|solutionrelative:src\\taskflow.api\\domain\\entities\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2CA78F-0479-4B4C-BD8B-0A65EF04DF43}|src\\TaskFlow.API\\TaskFlow.API.csproj|c:\\users\\meu computador\\codespace\\.net\\projetos\\task-flow\\taskflow\\src\\taskflow.api\\infrastructure\\auth\\refreshtokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2CA78F-0479-4B4C-BD8B-0A65EF04DF43}|src\\TaskFlow.API\\TaskFlow.API.csproj|solutionrelative:src\\taskflow.api\\infrastructure\\auth\\refreshtokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2CA78F-0479-4B4C-BD8B-0A65EF04DF43}|src\\TaskFlow.API\\TaskFlow.API.csproj|c:\\users\\meu computador\\codespace\\.net\\projetos\\task-flow\\taskflow\\src\\taskflow.api\\infrastructure\\auth\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2CA78F-0479-4B4C-BD8B-0A65EF04DF43}|src\\TaskFlow.API\\TaskFlow.API.csproj|solutionrelative:src\\taskflow.api\\infrastructure\\auth\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2CA78F-0479-4B4C-BD8B-0A65EF04DF43}|src\\TaskFlow.API\\TaskFlow.API.csproj|c:\\users\\meu computador\\codespace\\.net\\projetos\\task-flow\\taskflow\\src\\taskflow.api\\infrastructure\\multitenancy\\tenantmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2CA78F-0479-4B4C-BD8B-0A65EF04DF43}|src\\TaskFlow.API\\TaskFlow.API.csproj|solutionrelative:src\\taskflow.api\\infrastructure\\multitenancy\\tenantmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2CA78F-0479-4B4C-BD8B-0A65EF04DF43}|src\\TaskFlow.API\\TaskFlow.API.csproj|c:\\users\\meu computador\\codespace\\.net\\projetos\\task-flow\\taskflow\\src\\taskflow.api\\infrastructure\\multitenancy\\tenantcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2CA78F-0479-4B4C-BD8B-0A65EF04DF43}|src\\TaskFlow.API\\TaskFlow.API.csproj|solutionrelative:src\\taskflow.api\\infrastructure\\multitenancy\\tenantcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\CodeSpace\\.NET\\Projetos\\task-flow\\TaskFlow\\src\\TaskFlow.API\\Domain\\Entities\\TaskItem.cs",
+              "RelativeDocumentMoniker": "src\\TaskFlow.API\\Domain\\Entities\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\CodeSpace\\.NET\\Projetos\\task-flow\\TaskFlow\\src\\TaskFlow.API\\Domain\\Entities\\TaskItem.cs",
+              "RelativeToolTip": "src\\TaskFlow.API\\Domain\\Entities\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T11:17:49.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\CodeSpace\\.NET\\Projetos\\task-flow\\TaskFlow\\src\\TaskFlow.API\\Domain\\Entities\\Project.cs",
+              "RelativeDocumentMoniker": "src\\TaskFlow.API\\Domain\\Entities\\Project.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\CodeSpace\\.NET\\Projetos\\task-flow\\TaskFlow\\src\\TaskFlow.API\\Domain\\Entities\\Project.cs",
+              "RelativeToolTip": "src\\TaskFlow.API\\Domain\\Entities\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T11:17:37.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\CodeSpace\\.NET\\Projetos\\task-flow\\TaskFlow\\src\\TaskFlow.API\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "src\\TaskFlow.API\\Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\CodeSpace\\.NET\\Projetos\\task-flow\\TaskFlow\\src\\TaskFlow.API\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "src\\TaskFlow.API\\Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T11:17:23.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tenant.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\CodeSpace\\.NET\\Projetos\\task-flow\\TaskFlow\\src\\TaskFlow.API\\Domain\\Entities\\Tenant.cs",
+              "RelativeDocumentMoniker": "src\\TaskFlow.API\\Domain\\Entities\\Tenant.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\CodeSpace\\.NET\\Projetos\\task-flow\\TaskFlow\\src\\TaskFlow.API\\Domain\\Entities\\Tenant.cs",
+              "RelativeToolTip": "src\\TaskFlow.API\\Domain\\Entities\\Tenant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T11:17:14.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RefreshTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\CodeSpace\\.NET\\Projetos\\task-flow\\TaskFlow\\src\\TaskFlow.API\\Infrastructure\\Auth\\RefreshTokenService.cs",
+              "RelativeDocumentMoniker": "src\\TaskFlow.API\\Infrastructure\\Auth\\RefreshTokenService.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\CodeSpace\\.NET\\Projetos\\task-flow\\TaskFlow\\src\\TaskFlow.API\\Infrastructure\\Auth\\RefreshTokenService.cs",
+              "RelativeToolTip": "src\\TaskFlow.API\\Infrastructure\\Auth\\RefreshTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T11:16:36.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\CodeSpace\\.NET\\Projetos\\task-flow\\TaskFlow\\src\\TaskFlow.API\\Infrastructure\\Auth\\JwtService.cs",
+              "RelativeDocumentMoniker": "src\\TaskFlow.API\\Infrastructure\\Auth\\JwtService.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\CodeSpace\\.NET\\Projetos\\task-flow\\TaskFlow\\src\\TaskFlow.API\\Infrastructure\\Auth\\JwtService.cs",
+              "RelativeToolTip": "src\\TaskFlow.API\\Infrastructure\\Auth\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T11:16:14.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TenantMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\CodeSpace\\.NET\\Projetos\\task-flow\\TaskFlow\\src\\TaskFlow.API\\Infrastructure\\Multitenancy\\TenantMiddleware.cs",
+              "RelativeDocumentMoniker": "src\\TaskFlow.API\\Infrastructure\\Multitenancy\\TenantMiddleware.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\CodeSpace\\.NET\\Projetos\\task-flow\\TaskFlow\\src\\TaskFlow.API\\Infrastructure\\Multitenancy\\TenantMiddleware.cs",
+              "RelativeToolTip": "src\\TaskFlow.API\\Infrastructure\\Multitenancy\\TenantMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T11:15:57.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TenantContext.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\CodeSpace\\.NET\\Projetos\\task-flow\\TaskFlow\\src\\TaskFlow.API\\Infrastructure\\Multitenancy\\TenantContext.cs",
+              "RelativeDocumentMoniker": "src\\TaskFlow.API\\Infrastructure\\Multitenancy\\TenantContext.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\CodeSpace\\.NET\\Projetos\\task-flow\\TaskFlow\\src\\TaskFlow.API\\Infrastructure\\Multitenancy\\TenantContext.cs",
+              "RelativeToolTip": "src\\TaskFlow.API\\Infrastructure\\Multitenancy\\TenantContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T11:15:34.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
