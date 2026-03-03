@@ -49,20 +49,11 @@ public class User
         return true;
     }
 
-    public void UpdatePasswordHash(string newPasswordHash)
-    {
-        PasswordHash = newPasswordHash;
-    }
+    public void UpdatePasswordHash(string newPasswordHash) => PasswordHash = newPasswordHash;
 
-    public void UpdateName(string name)
-    {
-        Name = name;
-    }
+    public void UpdateName(string name) => Name = name;
 
-    public void UpdateEmail(string email) 
-    {
-        Email = email;
-    }
+    public void UpdateEmail(string email) => Email = email;
 
     public void PromoteToAdmin() => Role = "Admin";
 
