@@ -31,7 +31,6 @@
     <Folder Include="Application\DTOs\" />
     <Folder Include="Application\Queries\" />
     <Folder Include="Domain\Interfaces\" />
-    <Folder Include="Infrastructure\Persistence\" />
   </ItemGroup>
 
 </Project>
