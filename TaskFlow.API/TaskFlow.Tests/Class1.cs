@@ -1,4 +1,4 @@
-﻿namespace TaskFlow.Shared
+﻿namespace TaskFlow.Tests
 {
     public class Class1
     {
